@@ -1,2 +1,2 @@
-This is some content
+This is some content  
 now on mac 
